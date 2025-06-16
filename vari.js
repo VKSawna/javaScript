@@ -7,7 +7,7 @@ let hello;
 console.log("num1 "+ num1);
 console.log("num2 "+ num2);
 console.log("num3 "+ num3);
-console.log(typeof(hello));
+console.log(typeof hello);
 console.log( num);
 // The above code demonstrates the use of different variable declarations in JavaScript
 num1 += 20;
