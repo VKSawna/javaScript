@@ -1,0 +1,7 @@
+In javaScript Data Types are two types 
+==> Premitive Data Types
+==> Non Premitive Data Types
+
+premitive Data Types => Number, String, Boolean, null, undefined, symbol, BIGINT
+
+Non primitive Data Type => Array , Objects , function
